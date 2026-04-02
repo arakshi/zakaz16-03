@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.idea/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+reports/*.png
+reports/*.csv
+reports/*.json
+models/*.joblib
+data/processed/*.csv
